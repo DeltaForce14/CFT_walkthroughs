@@ -1,4 +1,5 @@
-CTF - TryHackMe - Learn Linux Room
+**CTF - TryHackMe - Learn Linux Room**
+
 Objective: find content of a file /root/root.txt
 
 STEP1: check if any of known users have sudo privileges
